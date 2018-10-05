@@ -1,5 +1,12 @@
 
-h
-8src/main/scala/com/vdk/dynamicconnectivity/Element.scala,5/1/5171dc74f81a254f9b1fc1e3d8cce6a8c0000f6a
-j
-:src/main/scala/com/vdk/dynamicconnectivity/QuickFind.scala,e/8/e8723a564d5a032813f6dfe13a8fba0053da5f7d
+9
+	build.sbt,7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+t
+Dsrc/main/scala/com/vdk/dynamicconnectivity/quickfind/QuickFind.scala,1/9/19128939fde1ccf0eecf96650efe5ac69d2d51cb
+r
+Bsrc/main/scala/com/vdk/dynamicconnectivity/quickfind/Element.scala,2/8/2828dc07af775b41013aae5e394fbc585a64551f
+n
+>src/test/scala/com/vdk/dynamicconnectivity/QuickFindTest.scala,2/5/25161f35526b2923502ad69840ddb886697976a4
