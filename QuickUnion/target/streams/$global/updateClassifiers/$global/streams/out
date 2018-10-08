@@ -411,14 +411,14 @@
 [debug] == resolving dependencies default#quickunion$sources;0.1->org.scala-lang#scala-reflect;2.12.6 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.5!scalatest_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.5!scalactic_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.5!scalatest_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.6!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.6!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.6!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.6!scala-library.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.6!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
-[debug] :: resolution report :: resolve 30ms :: artifacts dl 2ms
+[debug] :: resolution report :: resolve 39ms :: artifacts dl 2ms
 [debug] 	report for default#quickunion$sources;0.1 compile produced in /Users/vivekdk/Documents/my-repos/DynamicConnectivity/QuickUnion/target/scala-2.12/resolution-cache/reports/default-quickunion$sources-compile.xml
 [debug] 	report for default#quickunion$sources;0.1 runtime produced in /Users/vivekdk/Documents/my-repos/DynamicConnectivity/QuickUnion/target/scala-2.12/resolution-cache/reports/default-quickunion$sources-runtime.xml
 [debug] 	report for default#quickunion$sources;0.1 test produced in /Users/vivekdk/Documents/my-repos/DynamicConnectivity/QuickUnion/target/scala-2.12/resolution-cache/reports/default-quickunion$sources-test.xml
@@ -430,4 +430,4 @@
 [debug] 	report for default#quickunion$sources;0.1 plugin produced in /Users/vivekdk/Documents/my-repos/DynamicConnectivity/QuickUnion/target/scala-2.12/resolution-cache/reports/default-quickunion$sources-plugin.xml
 [debug] 	report for default#quickunion$sources;0.1 pom produced in /Users/vivekdk/Documents/my-repos/DynamicConnectivity/QuickUnion/target/scala-2.12/resolution-cache/reports/default-quickunion$sources-pom.xml
 [debug] 	report for default#quickunion$sources;0.1 scala-tool produced in /Users/vivekdk/Documents/my-repos/DynamicConnectivity/QuickUnion/target/scala-2.12/resolution-cache/reports/default-quickunion$sources-scala-tool.xml
-[debug] 	resolve done (30ms resolve - 2ms download)
+[debug] 	resolve done (39ms resolve - 2ms download)
