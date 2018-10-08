@@ -22,10 +22,10 @@ class QuickUnionWeightedTest extends FunSuite {
   }
 
   test("testFindParent") {
-    assert(quickUnionWeighted.findParent(list, 3) == 2)
-    assert(quickUnionWeighted.findParent(list, 4) == 2)
-    assert(quickUnionWeighted.findParent(list, 7) == 2)
-    assert(quickUnionWeighted.findParent(list, 6) == 2)
+    assert(quickUnionWeighted.root(list, 3) == 2)
+    assert(quickUnionWeighted.root(list, 4) == 2)
+    assert(quickUnionWeighted.root(list, 7) == 2)
+    assert(quickUnionWeighted.root(list, 6) == 2)
   }
 
 }
